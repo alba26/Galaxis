@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Adhitya",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Music",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Sport",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Travelling",
+    "Bool": 1
+  },
+  {
+    "Name": "Adhitya",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Business",
+    "Bool": 1
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Movie",
+    "Bool": 1
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Nature",
+    "Bool": 1
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Ronal",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  }
+]

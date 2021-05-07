@@ -1,0 +1,645 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		928BAF4C263BC10700A792C2 /* GalaxisApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928BAF4B263BC10700A792C2 /* GalaxisApp.swift */; };
+		928BAF4E263BC10700A792C2 /* LearnersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928BAF4D263BC10700A792C2 /* LearnersView.swift */; };
+		928BAF50263BC10800A792C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 928BAF4F263BC10800A792C2 /* Assets.xcassets */; };
+		928BAF53263BC10800A792C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 928BAF52263BC10800A792C2 /* Preview Assets.xcassets */; };
+		928BAF5E263BC10800A792C2 /* GalaxisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928BAF5D263BC10800A792C2 /* GalaxisTests.swift */; };
+		928BAF69263BC10800A792C2 /* GalaxisUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928BAF68263BC10800A792C2 /* GalaxisUITests.swift */; };
+		92A6FE2C263EF19A0015F337 /* LearnerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A6FE2B263EF19A0015F337 /* LearnerDetailView.swift */; };
+		92A6FE2E263EF1AA0015F337 /* ProjectDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A6FE2D263EF1AA0015F337 /* ProjectDetailView.swift */; };
+		92B74D0D2640254D008541E2 /* Learner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B74D0C2640254D008541E2 /* Learner.swift */; };
+		92B74D0F2640270C008541E2 /* LearnersData.json in Resources */ = {isa = PBXBuildFile; fileRef = 92B74D0E2640270B008541E2 /* LearnersData.json */; };
+		92B74D1126402B01008541E2 /* LearnersListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B74D1026402B01008541E2 /* LearnersListView.swift */; };
+		92B74D1326402C5C008541E2 /* AvatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B74D1226402C5C008541E2 /* AvatarView.swift */; };
+		92B74D1626403DB6008541E2 /* Learners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B74D1526403DB6008541E2 /* Learners.swift */; };
+		92C213962643F02C002DD592 /* OnBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C213952643F02C002DD592 /* OnBoard.swift */; };
+		92C2139A26442C8E002DD592 /* GalaxisRecommender.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 92C2139926442C8E002DD592 /* GalaxisRecommender.mlmodel */; };
+		92C2139C2644CD71002DD592 /* DiscussionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C2139B2644CD71002DD592 /* DiscussionView.swift */; };
+		92C2139E2644CD9B002DD592 /* MyPortfolioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C2139D2644CD9B002DD592 /* MyPortfolioView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		928BAF5A263BC10800A792C2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 928BAF40263BC10700A792C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 928BAF47263BC10700A792C2;
+			remoteInfo = Galaxis;
+		};
+		928BAF65263BC10800A792C2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 928BAF40263BC10700A792C2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 928BAF47263BC10700A792C2;
+			remoteInfo = Galaxis;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		928BAF48263BC10700A792C2 /* Galaxis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Galaxis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		928BAF4B263BC10700A792C2 /* GalaxisApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalaxisApp.swift; sourceTree = "<group>"; };
+		928BAF4D263BC10700A792C2 /* LearnersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnersView.swift; sourceTree = "<group>"; };
+		928BAF4F263BC10800A792C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		928BAF52263BC10800A792C2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		928BAF54263BC10800A792C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		928BAF59263BC10800A792C2 /* GalaxisTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GalaxisTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		928BAF5D263BC10800A792C2 /* GalaxisTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalaxisTests.swift; sourceTree = "<group>"; };
+		928BAF5F263BC10800A792C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		928BAF64263BC10800A792C2 /* GalaxisUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GalaxisUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		928BAF68263BC10800A792C2 /* GalaxisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalaxisUITests.swift; sourceTree = "<group>"; };
+		928BAF6A263BC10800A792C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92A6FE2B263EF19A0015F337 /* LearnerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerDetailView.swift; sourceTree = "<group>"; };
+		92A6FE2D263EF1AA0015F337 /* ProjectDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectDetailView.swift; sourceTree = "<group>"; };
+		92B74D0C2640254D008541E2 /* Learner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learner.swift; sourceTree = "<group>"; };
+		92B74D0E2640270B008541E2 /* LearnersData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LearnersData.json; sourceTree = "<group>"; };
+		92B74D1026402B01008541E2 /* LearnersListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnersListView.swift; sourceTree = "<group>"; };
+		92B74D1226402C5C008541E2 /* AvatarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarView.swift; sourceTree = "<group>"; };
+		92B74D1526403DB6008541E2 /* Learners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learners.swift; sourceTree = "<group>"; };
+		92C213952643F02C002DD592 /* OnBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoard.swift; sourceTree = "<group>"; };
+		92C2139926442C8E002DD592 /* GalaxisRecommender.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = GalaxisRecommender.mlmodel; sourceTree = "<group>"; };
+		92C2139B2644CD71002DD592 /* DiscussionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscussionView.swift; sourceTree = "<group>"; };
+		92C2139D2644CD9B002DD592 /* MyPortfolioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPortfolioView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		928BAF45263BC10700A792C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		928BAF56263BC10800A792C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		928BAF61263BC10800A792C2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		928BAF3F263BC10700A792C2 = {
+			isa = PBXGroup;
+			children = (
+				928BAF4A263BC10700A792C2 /* Galaxis */,
+				928BAF5C263BC10800A792C2 /* GalaxisTests */,
+				928BAF67263BC10800A792C2 /* GalaxisUITests */,
+				928BAF49263BC10700A792C2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		928BAF49263BC10700A792C2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				928BAF48263BC10700A792C2 /* Galaxis.app */,
+				928BAF59263BC10800A792C2 /* GalaxisTests.xctest */,
+				928BAF64263BC10800A792C2 /* GalaxisUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		928BAF4A263BC10700A792C2 /* Galaxis */ = {
+			isa = PBXGroup;
+			children = (
+				92A2E9E026410FF1009CD09E /* Model */,
+				928BAF4B263BC10700A792C2 /* GalaxisApp.swift */,
+				92B74D1426403A3C008541E2 /* View */,
+				92B74D1526403DB6008541E2 /* Learners.swift */,
+				928BAF4F263BC10800A792C2 /* Assets.xcassets */,
+				92B74D0E2640270B008541E2 /* LearnersData.json */,
+				92C2139926442C8E002DD592 /* GalaxisRecommender.mlmodel */,
+				928BAF54263BC10800A792C2 /* Info.plist */,
+				928BAF51263BC10800A792C2 /* Preview Content */,
+			);
+			path = Galaxis;
+			sourceTree = "<group>";
+		};
+		928BAF51263BC10800A792C2 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				928BAF52263BC10800A792C2 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		928BAF5C263BC10800A792C2 /* GalaxisTests */ = {
+			isa = PBXGroup;
+			children = (
+				928BAF5D263BC10800A792C2 /* GalaxisTests.swift */,
+				928BAF5F263BC10800A792C2 /* Info.plist */,
+			);
+			path = GalaxisTests;
+			sourceTree = "<group>";
+		};
+		928BAF67263BC10800A792C2 /* GalaxisUITests */ = {
+			isa = PBXGroup;
+			children = (
+				928BAF68263BC10800A792C2 /* GalaxisUITests.swift */,
+				928BAF6A263BC10800A792C2 /* Info.plist */,
+			);
+			path = GalaxisUITests;
+			sourceTree = "<group>";
+		};
+		92A2E9E026410FF1009CD09E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				92B74D0C2640254D008541E2 /* Learner.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		92B74D1426403A3C008541E2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				928BAF4D263BC10700A792C2 /* LearnersView.swift */,
+				92B74D1026402B01008541E2 /* LearnersListView.swift */,
+				92B74D1226402C5C008541E2 /* AvatarView.swift */,
+				92A6FE2B263EF19A0015F337 /* LearnerDetailView.swift */,
+				92A6FE2D263EF1AA0015F337 /* ProjectDetailView.swift */,
+				92C213952643F02C002DD592 /* OnBoard.swift */,
+				92C2139B2644CD71002DD592 /* DiscussionView.swift */,
+				92C2139D2644CD9B002DD592 /* MyPortfolioView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		928BAF47263BC10700A792C2 /* Galaxis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 928BAF6D263BC10800A792C2 /* Build configuration list for PBXNativeTarget "Galaxis" */;
+			buildPhases = (
+				928BAF44263BC10700A792C2 /* Sources */,
+				928BAF45263BC10700A792C2 /* Frameworks */,
+				928BAF46263BC10700A792C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Galaxis;
+			productName = Galaxis;
+			productReference = 928BAF48263BC10700A792C2 /* Galaxis.app */;
+			productType = "com.apple.product-type.application";
+		};
+		928BAF58263BC10800A792C2 /* GalaxisTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 928BAF70263BC10800A792C2 /* Build configuration list for PBXNativeTarget "GalaxisTests" */;
+			buildPhases = (
+				928BAF55263BC10800A792C2 /* Sources */,
+				928BAF56263BC10800A792C2 /* Frameworks */,
+				928BAF57263BC10800A792C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				928BAF5B263BC10800A792C2 /* PBXTargetDependency */,
+			);
+			name = GalaxisTests;
+			productName = GalaxisTests;
+			productReference = 928BAF59263BC10800A792C2 /* GalaxisTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		928BAF63263BC10800A792C2 /* GalaxisUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 928BAF73263BC10800A792C2 /* Build configuration list for PBXNativeTarget "GalaxisUITests" */;
+			buildPhases = (
+				928BAF60263BC10800A792C2 /* Sources */,
+				928BAF61263BC10800A792C2 /* Frameworks */,
+				928BAF62263BC10800A792C2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				928BAF66263BC10800A792C2 /* PBXTargetDependency */,
+			);
+			name = GalaxisUITests;
+			productName = GalaxisUITests;
+			productReference = 928BAF64263BC10800A792C2 /* GalaxisUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		928BAF40263BC10700A792C2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					928BAF47263BC10700A792C2 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					928BAF58263BC10800A792C2 = {
+						CreatedOnToolsVersion = 12.5;
+						TestTargetID = 928BAF47263BC10700A792C2;
+					};
+					928BAF63263BC10800A792C2 = {
+						CreatedOnToolsVersion = 12.5;
+						TestTargetID = 928BAF47263BC10700A792C2;
+					};
+				};
+			};
+			buildConfigurationList = 928BAF43263BC10700A792C2 /* Build configuration list for PBXProject "Galaxis" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 928BAF3F263BC10700A792C2;
+			productRefGroup = 928BAF49263BC10700A792C2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				928BAF47263BC10700A792C2 /* Galaxis */,
+				928BAF58263BC10800A792C2 /* GalaxisTests */,
+				928BAF63263BC10800A792C2 /* GalaxisUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		928BAF46263BC10700A792C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				928BAF53263BC10800A792C2 /* Preview Assets.xcassets in Resources */,
+				92B74D0F2640270C008541E2 /* LearnersData.json in Resources */,
+				928BAF50263BC10800A792C2 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		928BAF57263BC10800A792C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		928BAF62263BC10800A792C2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		928BAF44263BC10700A792C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				92A6FE2C263EF19A0015F337 /* LearnerDetailView.swift in Sources */,
+				928BAF4E263BC10700A792C2 /* LearnersView.swift in Sources */,
+				92C2139A26442C8E002DD592 /* GalaxisRecommender.mlmodel in Sources */,
+				92C2139E2644CD9B002DD592 /* MyPortfolioView.swift in Sources */,
+				92B74D1326402C5C008541E2 /* AvatarView.swift in Sources */,
+				92B74D1126402B01008541E2 /* LearnersListView.swift in Sources */,
+				928BAF4C263BC10700A792C2 /* GalaxisApp.swift in Sources */,
+				92B74D1626403DB6008541E2 /* Learners.swift in Sources */,
+				92B74D0D2640254D008541E2 /* Learner.swift in Sources */,
+				92C2139C2644CD71002DD592 /* DiscussionView.swift in Sources */,
+				92C213962643F02C002DD592 /* OnBoard.swift in Sources */,
+				92A6FE2E263EF1AA0015F337 /* ProjectDetailView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		928BAF55263BC10800A792C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				928BAF5E263BC10800A792C2 /* GalaxisTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		928BAF60263BC10800A792C2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				928BAF69263BC10800A792C2 /* GalaxisUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		928BAF5B263BC10800A792C2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 928BAF47263BC10700A792C2 /* Galaxis */;
+			targetProxy = 928BAF5A263BC10800A792C2 /* PBXContainerItemProxy */;
+		};
+		928BAF66263BC10800A792C2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 928BAF47263BC10700A792C2 /* Galaxis */;
+			targetProxy = 928BAF65263BC10800A792C2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		928BAF6B263BC10800A792C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		928BAF6C263BC10800A792C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		928BAF6E263BC10800A792C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Galaxis/Preview Content\"";
+				DEVELOPMENT_TEAM = 6W5NPNJGK4;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Galaxis/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "apple-academy.Galaxis";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		928BAF6F263BC10800A792C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Galaxis/Preview Content\"";
+				DEVELOPMENT_TEAM = 6W5NPNJGK4;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Galaxis/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "apple-academy.Galaxis";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		928BAF71263BC10800A792C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6W5NPNJGK4;
+				INFOPLIST_FILE = GalaxisTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "apple-academy.GalaxisTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Galaxis.app/Galaxis";
+			};
+			name = Debug;
+		};
+		928BAF72263BC10800A792C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6W5NPNJGK4;
+				INFOPLIST_FILE = GalaxisTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "apple-academy.GalaxisTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Galaxis.app/Galaxis";
+			};
+			name = Release;
+		};
+		928BAF74263BC10800A792C2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6W5NPNJGK4;
+				INFOPLIST_FILE = GalaxisUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "apple-academy.GalaxisUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Galaxis;
+			};
+			name = Debug;
+		};
+		928BAF75263BC10800A792C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6W5NPNJGK4;
+				INFOPLIST_FILE = GalaxisUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "apple-academy.GalaxisUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Galaxis;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		928BAF43263BC10700A792C2 /* Build configuration list for PBXProject "Galaxis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				928BAF6B263BC10800A792C2 /* Debug */,
+				928BAF6C263BC10800A792C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		928BAF6D263BC10800A792C2 /* Build configuration list for PBXNativeTarget "Galaxis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				928BAF6E263BC10800A792C2 /* Debug */,
+				928BAF6F263BC10800A792C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		928BAF70263BC10800A792C2 /* Build configuration list for PBXNativeTarget "GalaxisTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				928BAF71263BC10800A792C2 /* Debug */,
+				928BAF72263BC10800A792C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		928BAF73263BC10800A792C2 /* Build configuration list for PBXNativeTarget "GalaxisUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				928BAF74263BC10800A792C2 /* Debug */,
+				928BAF75263BC10800A792C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 928BAF40263BC10700A792C2 /* Project object */;
+}

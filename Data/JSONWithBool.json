@@ -1,0 +1,827 @@
+[
+  {
+    "Name": "Aditya",
+    "Interest": "Business",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Movie",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Tech",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Game",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Design",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Tech",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "UI/UX",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Public Speaking",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Game",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Design",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Tech",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Game",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Music",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Design",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Game",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Music",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Philosophy",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Psychology",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Design",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Movie",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Tech",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Game",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Sport",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Design",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Nature",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "UI/UX",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Game",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Design",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Tech",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Game",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Design",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "English Skill",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "UI/UX",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Game",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Design",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "UI/UX",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Game",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Design",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Game",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Music",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Design",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Business",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Movie",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Tech",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "UI/UX",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Public Speaking",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Game",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Music",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Philosophy",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Psychology",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Sport",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Design",
+    "Bool": 1.0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Nature",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "English Skill",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Travelling",
+    "Bool": 0
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Healthy Food",
+    "Bool": 0
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "Name": "Aditya",
+    "Interest": "Business",
+    "Bool": 1
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Movie",
+    "Bool": 1
+  },
+  {
+    "Name": "Aditya",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Felinda",
+    "Interest": "Public Speaking",
+    "Bool": 1
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Novianto",
+    "Interest": "Music",
+    "Bool": 1
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Music",
+    "Bool": 1
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Philosophy",
+    "Bool": 1
+  },
+  {
+    "Name": "Bryan",
+    "Interest": "Psychology",
+    "Bool": 1
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Movie",
+    "Bool": 1
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Sport",
+    "Bool": 1
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Alfa",
+    "Interest": "Nature",
+    "Bool": 1
+  },
+  {
+    "Name": "Helen",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Helen",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Octavianus",
+    "Interest": "English Skill",
+    "Bool": 1
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Yeremia",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Felyn",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Refo",
+    "Interest": "Music",
+    "Bool": 1
+  },
+  {
+    "Name": "Ang",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Wilfredo",
+    "Interest": "Sport",
+    "Bool": 1
+  },
+  {
+    "Name": "Wilfredo",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Dzulfikar",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Dzulfikar",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Dzulfikar",
+    "Interest": "Sport",
+    "Bool": 1
+  },
+  {
+    "Name": "Goldianus",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Goldianus",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Tito",
+    "Interest": "Music",
+    "Bool": 1
+  },
+  {
+    "Name": "Tito",
+    "Interest": "Travelling",
+    "Bool": 1
+  },
+  {
+    "Name": "Tito",
+    "Interest": "Healthy Food",
+    "Bool": 1
+  },
+  {
+    "Name": "Rivera",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Rivera",
+    "Interest": "Game",
+    "Bool": 1
+  },
+  {
+    "Name": "Septia",
+    "Interest": "Movie",
+    "Bool": 1
+  },
+  {
+    "Name": "Septia",
+    "Interest": "Music",
+    "Bool": 1
+  },
+  {
+    "Name": "Steven",
+    "Interest": "Business",
+    "Bool": 1
+  },
+  {
+    "Name": "William",
+    "Interest": "Design",
+    "Bool": 1
+  },
+  {
+    "Name": "Gilbert",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Zuhad",
+    "Interest": "UI/UX",
+    "Bool": 1
+  },
+  {
+    "Name": "Zuhad",
+    "Interest": "Tech",
+    "Bool": 1
+  },
+  {
+    "Name": "Zuhad",
+    "Interest": "Business",
+    "Bool": 1
+  },
+  {
+    "Name": "Suwardhana",
+    "Interest": "Philosophy",
+    "Bool": 1
+  }
+]
